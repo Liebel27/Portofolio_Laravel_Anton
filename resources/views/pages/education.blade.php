@@ -10,7 +10,7 @@
     <div class="text-center mb-5">
 
         <h1 class="display-4 fw-bold">
-            My <span class="text-blue">Education.</span>
+            My Education
         </h1>
 
         <p class="text-secondary">
@@ -29,7 +29,7 @@
 
             <div class="glass-card p-4 h-100">
 
-                <p class="text-blue fw-semibold mb-2">
+                <p>
                     01 · SEKOLAH DASAR
                 </p>
 
@@ -52,7 +52,7 @@
 
             <div class="glass-card p-4 h-100">
 
-                <p class="text-blue fw-semibold mb-2">
+                <p>
                     02 · SEKOLAH MENENGAH PERTAMA
                 </p>
 
@@ -75,7 +75,7 @@
 
             <div class="glass-card p-4 h-100">
 
-                <p class="text-blue fw-semibold mb-2">
+                <p>
                     03 · SEKOLAH MENENGAH KEJURUAN
                 </p>
 
@@ -98,7 +98,7 @@
 
             <div class="glass-card p-4 h-100">
 
-                <p class="text-blue fw-semibold mb-2">
+                <p>
                     04 · PERGURUAN TINGGI
                 </p>
 
@@ -210,7 +210,7 @@
     <div class="glass-card p-4 p-md-5 text-center mt-5">
 
         <h3 class="fw-bold mb-3">
-            Learning Through <span class="text-blue">Practice.</span>
+            Learning Through Practice
         </h3>
 
         <p class="text-secondary mb-0">

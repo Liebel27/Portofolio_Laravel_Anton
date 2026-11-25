@@ -14,11 +14,11 @@
 
         <div class="glass-card p-4 p-md-5">
 
-            <p class="text-blue fw-semibold mb-2">
+            <p>
                 Selamat datang di portofolio saya!
             </p>
 <h1 class="display-4 fw-bold mb-3">
-    Hello, I'm <br><span class="text-blue">Anton Wisnu M</span>
+    Hello, Saya <br>Anton Wisnu M
 </h1>
 
             <h4 class="mb-4">
@@ -105,7 +105,7 @@
         data-bs-toggle="modal"
         data-bs-target="#profileModal">
 
-        View Profile Popup
+        View Profile
 
     </button>
 

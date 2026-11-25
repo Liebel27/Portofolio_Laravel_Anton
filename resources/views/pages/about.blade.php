@@ -8,7 +8,7 @@
 <section class="py-5">
 
     <div class="text-center mb-5">
-        <h1 class="display-4 fw-bold">           About <span class="text-blue">Me.</span>
+        <h1 class="display-4 fw-bold">  About Me
         </h1>
 
     <p class="text-secondary">
@@ -84,7 +84,7 @@
 
         <div class="text-center mb-4">
             <h2 class="fw-bold">
-                My <span class="text-blue">Interests</span>
+                My Interests
             </h2>
         </div>
 

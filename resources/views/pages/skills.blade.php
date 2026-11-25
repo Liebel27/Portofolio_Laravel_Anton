@@ -9,8 +9,8 @@
     <section class="pt-2 pb-5">
 
         <div class="text-center mb-4">
-            My <span class="text-blue">Skills.</span>
-        </h1>
+         <h4>  My Skills
+        </h4>
 
         <p class="text-secondary">
             Kemampuan teknis dan perangkat lunak yang saya pelajari
@@ -27,7 +27,7 @@
             <div class="glass-card p-4 h-100">
 
                 <h4 class="fw-bold mb-3">
-                    <span class="text-blue">01.</span> Mechanical
+                    01. Mechanical
                 </h4>
 
                 <p class="text-secondary">
@@ -51,7 +51,7 @@
             <div class="glass-card p-4 h-100">
 
                 <h4 class="fw-bold mb-3">
-                    <span class="text-blue">02.</span> Electrical
+                    02.  Electrical
                 </h4>
 
                 <p class="text-secondary">
@@ -75,7 +75,7 @@
             <div class="glass-card p-4 h-100">
 
                 <h4 class="fw-bold mb-3">
-                    <span class="text-blue">03.</span> Automation
+                    03. Automation
                 </h4>
 
                 <p class="text-secondary">
@@ -99,7 +99,7 @@
             <div class="glass-card p-4 h-100">
 
                 <h4 class="fw-bold mb-3">
-                    <span class="text-blue">04.</span> Programming
+                    04. Programming
                 </h4>
 
                 <p class="text-secondary">
@@ -123,7 +123,7 @@
             <div class="glass-card p-4 h-100">
 
                 <h4 class="fw-bold mb-3">
-                    <span class="text-blue">05.</span> Software
+                    05. Software
                 </h4>
 
                 <p class="text-secondary">
@@ -147,7 +147,7 @@
             <div class="glass-card p-4 h-100">
 
                 <h4 class="fw-bold mb-3">
-                    <span class="text-blue">06.</span> Technical Skills
+                    06. Technical Skills
                 </h4>
 
                 <p class="text-secondary">
@@ -172,7 +172,7 @@
     <div class="glass-card p-4 p-md-5 text-center mt-5">
 
         <h3 class="fw-bold mb-3">
-            Always Keep <span class="text-blue">Learning.</span>
+            Always Keep Learning
         </h3>
 
         <p class="text-secondary mb-0">

@@ -54,7 +54,7 @@
 
         /* BRAND */
         .navbar-brand {
-            color: #2196d2 !important;
+            color: #000000 !important;
             font-weight: 800;
             transition: color 0.3s ease;
         }
@@ -281,6 +281,16 @@
             }
 
         }
+        /* Sembunyikan scrollbar tanpa mematikan fungsi scroll */
+html {
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+}
+
+html::-webkit-scrollbar,
+body::-webkit-scrollbar {
+    display: none;
+}
     </style>
 
     @stack('styles')

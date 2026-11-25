@@ -10,7 +10,7 @@
         <!-- PAGE HEADER -->
         <div class="text-center mb-4">
             <h1 class="display-4 fw-bold">
-                My <span class="text-blue">Services.</span>
+                My Services
             </h1>
 
             <p class="text-secondary">
@@ -174,7 +174,7 @@
         <div class="glass-card p-4 p-md-5 text-center mt-5">
 
             <h3 class="fw-bold mb-3">
-                Continuous <span class="text-blue">Learning.</span>
+                Continuous Learning
             </h3>
 
             <p class="text-secondary mb-0">
